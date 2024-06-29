@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm Manis Saha</h1>
 <h3 align="center">Aspiring Software Developer and Competitive Programmer | 3rd year student at VIT Chennai | Hobbies : Coding, Drawing, Graphic Designing, Cycling and Swimming</h3>
 
@@ -35,10 +34,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/manis__saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manis__saha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manis-saha-4b2187278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manis-saha-4b2187278/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/manis-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manis-saha" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/25709421/manis-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25709421/manis-saha" height="30" width="40" /></a>
 <a href="https://fb.com/manis.saha.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manis.saha.54" height="30" width="40" /></a>
 <a href="https://instagram.com/manis.saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manis.saha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucpmffguisajfqhxbjqeyohw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucpmffguisajfqhxbjqeyohw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@manissaha500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@manissaha500" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manis_129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manis_129" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manissaha129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manissaha129" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manissaha129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manissaha129" height="30" width="40" /></a>
