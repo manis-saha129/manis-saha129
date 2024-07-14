@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/manis__saha" target="blank"><img src="https://img.shields.io/twitter/follow/manis__saha?logo=twitter&style=for-the-badge" alt="manis__saha" /></a> </p>
 
-![HackerPythonGIF](https://github.com/user-attachments/assets/b19a4400-7427-4cc2-b99a-3470efd5665b)
+![CyberspaceInternetGIF](https://github.com/user-attachments/assets/de1eb652-89e6-4eb7-9a9c-fd3ba5707eca)
 
 - 👨‍💻 All of my projects are available at [https://github.com/manis-saha129?tab=repositories](https://github.com/manis-saha129?tab=repositories)
 
