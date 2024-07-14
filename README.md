@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/manis__saha" target="blank"><img src="https://img.shields.io/twitter/follow/manis__saha?logo=twitter&style=for-the-badge" alt="manis__saha" /></a> </p>
 
+![CatWifGIF](https://github.com/user-attachments/assets/867450a6-d23b-47c9-81d6-338793776a58)
+
 - 👨‍💻 All of my projects are available at [https://github.com/manis-saha129?tab=repositories](https://github.com/manis-saha129?tab=repositories)
 
 - 📫 How to reach me **manissaha129@gmail.com**
